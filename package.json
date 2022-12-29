@@ -2,16 +2,16 @@
   "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": " https://CyresSmith.github.io/Filmoteka",
+  "homepage": " https://CyresSmith.github.io/filmoteka-test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka",
+    "build": "parcel build src/*.html --public-url /filmoteka-test",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CyresSmith/filmoteka.git"
+    "url": "git+https://github.com/CyresSmith/filmoteka-test.git"
   },
   "keywords": [],
   "author": "",
